@@ -111,6 +111,7 @@ header.masthead h2 {
     margin-bottom: 15px;
 }
 
+
 .portfolio .portfolio-item .portfolio-item-caption {
     -webkit-transition: all ease 0.5s;
     transition: all ease 0.5s;
@@ -147,6 +148,8 @@ header.masthead h2 {
     -webkit-box-shadow: 0 0 3rem 1rem rgba(0, 0, 0, 0.5);
     box-shadow: 0 0 3rem 1rem rgba(0, 0, 0, 0.5);
 }
+
+
 
 .portfolio-modal .portfolio-modal-dialog .close-button {
     position: absolute;
