@@ -115,6 +115,9 @@ header.masthead h2 {
     margin-bottom: 15px;
 }
 
+#header {
+    color: white !important;
+   }
 
 .portfolio .portfolio-item .portfolio-item-caption {
     -webkit-transition: all ease 0.5s;
@@ -182,7 +185,12 @@ header.masthead h2 {
 
 .education {
     margin-bottom: -15px;
-    background-image: url();
+    background-color: #367588;
+    color: white;
+}
+
+#education_header {
+    color: white !important
 }
 
 .education .location {
